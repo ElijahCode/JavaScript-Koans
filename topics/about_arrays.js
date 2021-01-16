@@ -1,3 +1,4 @@
+//Just some text for commit
 module("About Arrays (topics/about_arrays.js)");
 
 test("array literal syntax and indexing", function() {
